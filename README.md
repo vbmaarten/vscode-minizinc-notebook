@@ -1,0 +1,1 @@
+# MiniZinc notebook for VSCode 
